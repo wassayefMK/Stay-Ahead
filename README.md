@@ -115,3 +115,6 @@ The final system includes:
 - XGBoost provided the strongest performance after hyperparameter tuning
 - Deep models (TabNet, NODE) are promising but require careful optimization
 - Threshold tuning improved churn detection in the minority class
+
+
+Demo Link: https://youtu.be/Gpo-LAuIRhc
